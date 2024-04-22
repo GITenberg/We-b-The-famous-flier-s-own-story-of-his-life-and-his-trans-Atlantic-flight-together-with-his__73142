@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '56958'
     url: http://www.gutenberg.org/2009/agents/56958
     wikipedia: https://en.wikipedia.org/wiki/Fitzhugh_Green_Sr.
+covers:
+- cover_type: archival
+  image_path: 73142-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Lindbergh, Charles A. (Charles Augustus)
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56927
     wikipedia: https://en.wikipedia.org/wiki/Charles_Lindbergh
 description: 'Wikipedia: https://en.wikipedia.org/wiki/%22WE%22_(1927_book)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73142#We-b-The-famous-flier-s-own-story-of-his-life-and-his-trans-Atlantic-flight-together-with-his_
 gutenberg_issued: '2024-03-11'
 gutenberg_type: Text
 identifiers:
